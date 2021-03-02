@@ -1,0 +1,7 @@
+{
+  "git.ignoreLimitWarning": true,
+  "dart.flutterSdkPaths": [
+    ".fvm/flutter_sdk"
+  ],
+  "dart.flutterSdkPath": "/Users/daikikuroda/Desktop/my pro/testFL/my_flutter_project/.fvm/flutter_sdk"
+}
